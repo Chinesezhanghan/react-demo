@@ -1,0 +1,31 @@
+{
+  "data":{
+    "list":[
+      {"id":1,"src":"http://asset.ibanquan.com/s/30611/727/index_global1_pic_3?v=1568268246_1572510848","txt":"自然"},
+      {"id":2,"src":"http://asset.ibanquan.com/s/30611/727/index_global1_pic_4?v=1568268246_1572510848","txt":"生活"},
+      {"id":3,"src":"http://asset.ibanquan.com/s/30611/727/index_global1_pic_5?v=1568268246_1572510848","txt":"家居"},
+      {"id":4,"src":"http://asset.ibanquan.com/s/30611/727/index_global1_pic_6?v=1568268246_1572510848","txt":"源点"},
+      {"id":5,"src":"http://asset.ibanquan.com/s/30611/727/index_global1_pic_7?v=1568268246_1572510848","txt":"木香"},
+      {"id":6,"src":"http://asset.ibanquan.com/s/30611/727/index_global1_pic_3?v=1568268246_1572510848","txt":"自然"},
+      {"id":7,"src":"http://asset.ibanquan.com/s/30611/727/index_global1_pic_4?v=1568268246_1572510848","txt":"生活"},
+      {"id":8,"src":"http://asset.ibanquan.com/s/30611/727/index_global1_pic_5?v=1568268246_1572510848","txt":"家具"},
+      {"id":9,"src":"http://asset.ibanquan.com/s/30611/727/index_global1_pic_6?v=1568268246_1572510848","txt":"源点"},
+      {"id":10,"src":"http://asset.ibanquan.com/s/30611/727/index_global1_pic_7?v=1568268246_1572510848","txt":"木香"}
+    ],
+    "bulist":[
+      {"id":"1","src":"http://asset.ibanquan.com/s/30611/727/index_global1_pic_3?v=1568268246_1572510848","title":"9 款高颜值饭盒推荐","desc":"它的外形像个胶囊一样，饭盒盖是拱形的，可以在上面放一些有「高度」的美食，比如三角饭团。同时，作为区隔下层饭菜的盖子，密闭性做得也不错，盖好以后汁水不会撒漏。还有绑带方便外出携带，小巧方便"},
+      {"id":"2","src":"http://asset.ibanquan.com/s/30611/727/index_global1_pic_5?v=1568268246_1572510848","title":"养成七种整理习惯","desc":"习惯，是在某种时间、某个地方、某种条件下自然而然地表现出来的一种比较定型的行为。当整理成为一种习惯性的行为，你的家、你的生活自然就变得井井有条。"},
+      {"id":"3","src":"http://asset.ibanquan.com/s/30611/727/index_global1_pic_6?v=1568268246_1572510848","title":"年度盘点","desc":"极简的厨房设计。不仅仅是采用现有的隐藏各种厨具、餐具的纯结构优化，更要引导一种现代都市生活的厨房新理念。"},
+      {"id":"4","src":"http://asset.ibanquan.com/s/30611/727/index_global1_pic_7?v=1568268246_1572510848","title":"9 款高颜值饭盒推荐","desc":"它的外形像个胶囊一样，饭盒盖是拱形的，可以在上面放一些有「高度」的美食，比如三角饭团。同时，作为区隔下层饭菜的盖子，密闭性做得也不错，盖好以后汁水不会撒漏。还有绑带方便外出携带，小巧方便"}
+    ],
+    "rList":[
+      {"id":"1","src":"http://asset.ibanquan.com/s/30611/727/index_global1_pic_3?v=1568268246_1572510848","p":"自然生活，精选用料"},
+      {"id":"2","src":"http://asset.ibanquan.com/s/30611/727/index_global1_pic_4?v=1568268246_1572510848","p":"源点生活"},
+      {"id":"3","src":"http://asset.ibanquan.com/s/30611/727/index_global1_pic_5?v=1568268246_1572510848","p":"puree好设计好生活"},
+      {"id":"4","src":"http://asset.ibanquan.com/s/30611/727/index_global1_pic_6?v=1568268246_1572510848","p":"家居精品之选"}
+    ],
+    "blist":[
+      "养成七种整理习惯","9 款高颜值饭盒推荐","年度盘点| Top 20", "养成七种整理习惯","9 款高颜值饭盒推荐","年度盘点| Top 20"
+    ]
+  }
+}
